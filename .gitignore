@@ -1,2 +1,8 @@
 # IntelliJ IDEA
 .idea
+
+# https://geo.mirror.pkgbuild.com/images/latest/
+Arch-Linux-x86_64-cloudimg.qcow2
+
+# packer build .
+output-archlinux
